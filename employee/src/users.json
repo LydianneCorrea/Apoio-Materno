@@ -1,0 +1,38 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "Nome": "Beatriz Oliveira",
+      "Bairro": "San Martin",
+      "Telefone":"(81)9555-9555"
+    },
+    {
+      "id": 2,
+      "Nome": "Layza Corrêa",
+      "Bairro": "Boa Vista",
+      "Telefone":"(81)9755-9585"
+    },
+    {
+      "id": 3,
+      "Nome": "Genilda Castro",
+      "Bairro": "Espinheiro",
+      "Telefone":"(81)9255-9540"
+    },
+    {
+      "id": 4,
+      "Nome": "Anne Santos",
+      "Bairro": "Casa Forte",
+      "Telefone":"(81)9822-7567"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
